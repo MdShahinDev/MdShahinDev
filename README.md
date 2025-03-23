@@ -16,7 +16,6 @@ I am **Md Shahin**, a passionate **Web Developer** specializing in **React.js, N
 
 ✅ **Frontend Enthusiast:** I design & develop **beautiful, fast, and responsive UIs**  
 ✅ **eCommerce Specialist:** Expertise in **scalable, secure, and high-converting stores** 
-
 ✅ **SEO & Performance Optimization:** Focused on **speed, accessibility, and ranking**  
 ✅ **Always Learning:** Exploring **AI, automation, and web performance best practices**  
 
