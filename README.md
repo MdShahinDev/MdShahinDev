@@ -39,7 +39,7 @@ I am **Md Shahin**, a passionate **Web Developer** specializing in **React.js, N
 
 
 🚀 **Recent Projects:**  
-🔹 **Shopy - A Modern WooCommerce Website** – A scalable online store with **React js, Tailwind CSS, Redux, API Intregation**  
+![Check Mark](https://img.shields.io/badge/-✔️-green?style=for-the-badge) **Shopy - A Modern WooCommerce Website** – A scalable online store with **React js, Tailwind CSS, Redux, API Intregation**  
 🔹 **Gadgets Shops** – A high-performance Gadgets Shop.  
 
 ---
