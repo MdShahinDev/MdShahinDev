@@ -6,18 +6,18 @@
 I am **Md Shahin**, a passionate **Web Developer** specializing in **React.js, Next.js, Tailwind CSS, and eCommerce solutions**. My goal is to build **high-performance, scalable, and SEO-optimized web applications** that enhance user experiences and drive business growth.  
 
 📌 **Currently:**  
-🔹 Working on **headless eCommerce projects** with Next.js  
-🔹 Exploring **advanced performance optimizations & SEO**  
-🔹 Pursuing a **BSc in Computer Science & Engineering**  
+✅ Working on **headless eCommerce projects** with Next.js  
+✅ Exploring **advanced performance optimizations & SEO**  
+✅ Pursuing a **BSc in Computer Science & Engineering**  
 
 ---
 
 ## 💡 **About Me**  
 
-🔹 **Frontend Enthusiast:** I design & develop **beautiful, fast, and responsive UIs**  
-🔹 **eCommerce Specialist:** Expertise in **scalable, secure, and high-converting stores** 
-🔹 **SEO & Performance Optimization:** Focused on **speed, accessibility, and ranking**  
-🔹 **Always Learning:** Exploring **AI, automation, and web performance best practices**  
+✅ **Frontend Enthusiast:** I design & develop **beautiful, fast, and responsive UIs**  
+✅ **eCommerce Specialist:** Expertise in **scalable, secure, and high-converting stores** 
+✅ **SEO & Performance Optimization:** Focused on **speed, accessibility, and ranking**  
+✅ **Always Learning:** Exploring **AI, automation, and web performance best practices**  
 
 ---
 
